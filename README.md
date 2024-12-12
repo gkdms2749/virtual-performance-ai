@@ -19,7 +19,7 @@ This repository provides:
 
 ## 🌄 &nbsp;AI 기술논문 및 예제를 공유할 수 있습니다!
 <details>
-  <summary>나만의 <code>프로젝트</code>을 만들어 <code>AI 요소기술 예제</code>을 공유하세요.</summary>
+  <summary>나만의 <code>프로젝트</code>을 만들어 <code>AI 요소기술 예제</code>를 공유하세요.</summary>
   <img src="./docs/주요기능/콜렉션/1.gif" width=100%>
 </details>
 <details>
