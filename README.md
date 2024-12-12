@@ -51,8 +51,7 @@ This repository provides:
 <br>
 <br>
 
-## 👀 &nbsp;자, 이제 준비 됐나요? 
-## 👀 &nbsp;가상공연 AI요소기술의 `기술키워드`을 직접 검색해보세요!
+## 👀 &nbsp;자, 이제 준비 됐나요? 가상공연 AI요소기술의 `기술키워드`을 직접 검색해보세요!
 
 [📷 MR미디어랩 사이트로 이동하기](https://blog.naver.com/mr_media_lab)   
 
