@@ -14,7 +14,50 @@ This repository provides:
 - `examples/`: Code examples showcasing practical implementations.
 - `tools/`: Scripts for fetching papers and managing data.
 
-### ✨ 가상공연 구축을 위한 첫 AI 요소기술 정리!
+
+
+## 🌄 &nbsp;AI 기술논문 및 예제를 공유할 수 있습니다!
+<details>
+  <summary>나만의 <code>프로젝트</code>을 만들어 <code>AI 요소기술 예제</code>을 공유하세요.</summary>
+  <img src="./docs/주요기능/콜렉션/1.gif" width=100%>
+</details>
+<details>
+  <summary>마음에 든 프로젝트 예제에 하트를 눌러 <code>좋아요</code>를 표현하세요.</summary>
+  <img src="./docs/주요기능/콜렉션/2.gif" width=100%>
+</details>
+
+<br>
+
+## 🏞 &nbsp;기술키워드 추천 기능을 이용해보세요!
+<details>
+  <summary>가상공연 구축 <code>기술키워드</code> 검색을 통해 비슷한 AI 요소기술을 추천해줍니다.</summary>
+  <img src="./docs/주요기능/콜렉션/3.gif" width=100%>
+</details>
+
+<br>
+
+## 🌃 &nbsp;저랑 같이 AI요소기술 연구하러 갈래요?
+<details>
+  <summary><code>모임</code>을 만들어 같이 AI요소기술을 연구할 동료를 구할 수 있습니다.</summary>
+  <img src="./docs/주요기능/같이연구해요/1.gif" width=100%>
+</details>
+<details>
+  <summary>주최자가 모집 마감 버튼을 누르면 <code>채팅</code> 메뉴에서 참여자들끼리 대화할 수 있습니다.</summary>
+  <img src="./docs/주요기능/같이연구해요/2.gif" width=100%>
+  <img src="./docs/주요기능/같이연구해요/3.gif" width=100%>
+</details>
+
+<br>
+<br>
+
+## 👀 &nbsp;자, 이제 준비 됐나요? `가상공연 구축 AI요소기술을 찾기 위한 기술키워드`을 직접 검색해보세요!
+
+[📷 MR미디어랩 사이트로 이동하기](https://blog.naver.com/mr_media_lab)   
+
+
+
+
+### ✨ 가상공연 구축을 위한 첫 AI 요소기술 정리! (2024.12.12.)
 
 가상공연 구축을 위한 구성요소별 요구조건에 따른 기술키워드, AI 요소기술, 관련 AI기술논문 예시를 포함한다. 😊
 
